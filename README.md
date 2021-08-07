@@ -4,8 +4,8 @@
 ### - Deep Learning Specialization
 - 8월 16일 오전 9시까지
 
-	- [ ] checkBox introduction to deep learning
-	- [ ] checkBox neural networks basics
+	- [ ] introduction to deep learning
+	- [ ] neural networks basics
 
 ### - Tensorflow Certificate
 
