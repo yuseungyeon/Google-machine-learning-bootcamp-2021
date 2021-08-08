@@ -2,9 +2,9 @@
 구글 머신러닝 부트캠프 기록
 
 ### - Deep Learning Specialization
-- 8월 16일 오전 9시까지
+- Week 1. 8월 16일 오전 9시까지
 
-	- [ ] introduction to deep learning
+	- [x] introduction to deep learning
 	- [ ] neural networks basics
 
 ### - Tensorflow Certificate
