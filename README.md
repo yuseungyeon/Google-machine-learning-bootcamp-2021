@@ -5,7 +5,16 @@
 - Week 1. 8월 16일 오전 9시까지
 
 	- [x] introduction to deep learning
-	- [ ] neural networks basics
+	- [X] neural networks basics
+
+- Week 2. 8월 23일 오전 9시까지
+
+	- [ ] shallow neural networks
+	- [ ] deep neural networks
+
+- Week 3. 8월 30일 오전 9시까지
+	- 업데이트 예정
+
 
 ### - Tensorflow Certificate
 
