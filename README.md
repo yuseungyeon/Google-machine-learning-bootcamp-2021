@@ -10,7 +10,7 @@
 - Week 2. 8월 23일 오전 9시까지
 
 	- [X] shallow neural networks
-	- [ ] deep neural networks
+	- [X] deep neural networks
 
 - Week 3. 8월 30일 오전 9시까지
 	- [ ] practical aspects of deep learning
