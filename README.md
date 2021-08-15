@@ -39,3 +39,4 @@
 ### - Tensorflow Certificate
 
 ### - Kaggle
+	- 8월 17일 meet up
