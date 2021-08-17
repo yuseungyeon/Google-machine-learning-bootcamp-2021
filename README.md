@@ -13,7 +13,7 @@
 	- [X] deep neural networks
 
 - Week 3. 8월 30일 오전 9시까지
-	- [ ] practical aspects of deep learning
+	- [X] practical aspects of deep learning
 
 - Week 4. 9월 6일 오전 9시까지
 	- [ ] optimization algorithms
@@ -39,4 +39,10 @@
 ### - Tensorflow Certificate
 
 ### - Kaggle
-	- 8월 17일 meet up
+	* 8월 17일 meet up
+	- TensorFlow Certification계획 짜기
+	- 매주 금요일 7시 30분 ~ 9시 30분 study with me
+	- notebook 필사
+	
+	* 8월 27일 study with me
+	
