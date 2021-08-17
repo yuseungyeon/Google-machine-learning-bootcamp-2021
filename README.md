@@ -37,6 +37,7 @@
 	- [ ] sequence models & attention mechanism
 
 ### - Tensorflow Certificate
+	goal : 10월 15일까지 조기취득하기
 
 ### - Kaggle
 	* 8월 17일 meet up
