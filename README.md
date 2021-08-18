@@ -17,7 +17,7 @@
 
 - Week 4. 9월 6일 오전 9시까지
 	- [X] optimization algorithms
-	- [ ] hyperparameter tuning, batch normalization and programming frameworks
+	- [X] hyperparameter tuning, batch normalization and programming frameworks
 
 - Week 5. 9월 13일 오전 9시까지
 	- [ ] ML strategy (1)
