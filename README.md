@@ -38,6 +38,12 @@
 
 ### - Tensorflow Certificate
 	goal : 10월 15일까지 조기취득하기
+	
+	- [ ] tensorflow 개발자 역량
+	- [ ] tensorflow 2.X를 활용하여 신경망 모델 빌드 및 훈련
+	- [ ] 이미지 분류
+	- [ ] 자연어 처리
+	- [ ] 시계열, 시퀀스, 
 
 ### - Kaggle
 	* 8월 17일 meet up
