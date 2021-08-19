@@ -20,7 +20,7 @@
 	- [X] hyperparameter tuning, batch normalization and programming frameworks
 
 - Week 5. 9월 13일 오전 9시까지
-	- [ ] ML strategy (1)
+	- [X] ML strategy (1)
 	- [ ] ML strategy (2)
 	- [ ] foundations of convolutional neural networks
 
