@@ -21,7 +21,7 @@
 
 - Week 5. 9월 13일 오전 9시까지
 	- [X] ML strategy (1)
-	- [ ] ML strategy (2)
+	- [X] ML strategy (2)
 	- [ ] foundations of convolutional neural networks
 
 - Week 6. 9월 20일 오전 9시까지
