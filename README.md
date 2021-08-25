@@ -25,8 +25,8 @@
 	- [X] foundations of convolutional neural networks
 
 - Week 6. 9월 20일 오전 9시까지
-	- [ ] deep convolutional models: case studies
-	- [ ] object detection
+	- [X] deep convolutional models: case studies
+	- [X] object detection
 
 - Week 7. 9월 27일 오전 9시까지
 	- [ ] special applications: face recognition & neural style transfer
