@@ -57,5 +57,5 @@
 	- 매주 금요일 7시 30분 ~ 9시 30분 study with me
 	- notebook 필사
 	
-	* 8월 27일 study with me
+	* 8월 28일 study with me
 	
