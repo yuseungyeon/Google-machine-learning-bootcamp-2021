@@ -29,11 +29,11 @@
 	- [X] object detection
 
 - Week 7. 9월 27일 오전 9시까지
-	- [ ] special applications: face recognition & neural style transfer
-	- [ ] recurrent neural networks
+	- [X] special applications: face recognition & neural style transfer
+	- [X] recurrent neural networks
 
 - Week 8. 10월 4일 오전 9시까지
-	- [ ] natural language processing & word embeddings
+	- [X] natural language processing & word embeddings
 	- [ ] sequence models & attention mechanism
 
 ### - Tensorflow Certificate
@@ -45,11 +45,14 @@
 	- 이미지 분류
 	- 자연어 처리
 	- 시계열, 시퀀스, 예상
-	
-	to do list
-	- hands-on machine learning with Scikit-Learn, Keras & TensorFlow
-	- tensorflow guide
-	- tensorflow tutorial
+
+#### 목표
+
+- 목표 시험일 : 9월 23일
+
+- [ ] Deep Learning Specialization 끝내기
+- [ ] tensorflow tutorial : 필사 하기
+- [ ] hands-on : keras & Tensorflow 부분 공부하기
 
 ### - Kaggle
 	* 8월 17일 meet up
