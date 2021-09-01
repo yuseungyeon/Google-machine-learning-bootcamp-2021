@@ -34,7 +34,9 @@
 
 - Week 8. 10월 4일 오전 9시까지
 	- [X] natural language processing & word embeddings
-	- [ ] sequence models & attention mechanism
+	- [X] sequence models & attention mechanism
+
+Finish - 2021. 8. 28
 
 ### - Tensorflow Certificate
 	goal : 10월 15일까지 조기취득하기
@@ -61,4 +63,7 @@
 	- notebook 필사
 	
 	* 8월 28일 study with me
+	notebook 필사
+	tensorflow tutorial
 	
+	* 9월 4일 study with me
