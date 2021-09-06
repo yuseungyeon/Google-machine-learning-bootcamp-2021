@@ -63,9 +63,9 @@ Finish - 2021. 8. 28
 	- notebook 필사
 	
 	* 8월 28일 study with me
-	notebook 필사
-	tensorflow tutorial
+	- notebook 필사
+	- tensorflow tutorial
 	
 	* 9월 4일 study with me
-	계획표 공유 - 계획표를 더 구체적으로 정해도 좋을 듯
-	tensorflow tutorial 필사
+	- 계획표 공유 -> 계획표를 더 구체적으로 정해도 좋을 듯
+	- tensorflow tutorial 필사
