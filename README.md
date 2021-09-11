@@ -69,3 +69,6 @@ Finish - 2021. 8. 28
 	* 9월 4일 study with me
 	- 계획표 공유 -> 계획표를 더 구체적으로 정해도 좋을 듯
 	- tensorflow tutorial 필사
+	
+	* 9월 11일 study with me
+	- tensorflow developer week 1
