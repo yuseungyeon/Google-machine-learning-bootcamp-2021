@@ -72,3 +72,6 @@ Finish - 2021. 8. 28
 	
 	* 9월 11일 study with me
 	- tensorflow developer week 1
+	
+	* 9월 18일 study with me
+	- tensorflow developer review
